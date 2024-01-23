@@ -1,0 +1,218 @@
+repo_name: pankajnelsontirkey/js-starter-kit
+report_id: 85fd69c3cbdecaf207c338bfe88d2fd5
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T21:54:26+00:00'
+requested_by: pankajnelsontirkey
+provider: github
+branch: master
+detected_tools_count: 15
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 18.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.14.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/pankajnelsontirkey/js-starter-kit/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Pankaj Nelson Tirkey
+  last_updated_on: 2019-09-05 12:57:50.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
